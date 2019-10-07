@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Yoni Yoon studies consumers.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yoniyoon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#permalink: /:categories/:title/
+permalink: /:categories/:title/
 plainwhite:
   name: Yoni Yoon
   tagline: Researcher. Psychologist.
@@ -28,7 +28,7 @@ plainwhite:
   analytics_id: 149464879
   #disqus_shortname: thelehhman
 header_pages:
- - yoniyoon.github.com/CV.md
+ - CV.md
   # generate social links in footer
   #social_links:
     #twitter: thelehhman

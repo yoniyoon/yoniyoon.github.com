@@ -33,6 +33,10 @@ plainwhite:
     #github:  thelehhman
     #linkedIn: in/thelehhman
     # rss: rss
+
+header_pages:
+ - CV.md
+
 # Build settings
 markdown: kramdown
 remote_theme: thelehhman/plainwhite-jekyll

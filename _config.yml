@@ -20,14 +20,15 @@ description: >- # this means to ignore newlines until "baseurl:"
   Yoni Yoon studies consumers.
 baseurl: "/site" # the subpath of your site, e.g. /blog
 url: "https://yoniyoon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#permalink: /:categories/:title/
+permalink: /:categories/:title/
 plainwhite:
   name: Yoni Yoon
   tagline: Researcher. Psychologist.
   #date_format: "%b %-d, %Y"
   analytics_id: 149464879
   #disqus_shortname: thelehhman
-
+header_pages:
+ - yoniyoon.github.com/CV.md
   # generate social links in footer
   #social_links:
     #twitter: thelehhman
@@ -42,8 +43,6 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   
-  header_pages:
- - CV.md
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

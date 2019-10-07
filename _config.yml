@@ -23,7 +23,7 @@ url: "https://yoniyoon.github.io" # the base hostname & protocol for your site, 
 permalink: /:categories/:title/
 plainwhite:
   name: Yoni Yoon
-  tagline: Researcher. Psychologist.
+  tagline: Consumer Psychologist.
   #date_format: "%b %-d, %Y"
   analytics_id: 149464879
   #disqus_shortname: thelehhman

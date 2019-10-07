@@ -13,8 +13,6 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-header_pages:
- - CV.md
 
 title: Yoni Yoon
 email: yoniyoon.mkt@gmail.com
@@ -43,6 +41,9 @@ show_excerpts: true
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  
+  header_pages:
+ - CV.md
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

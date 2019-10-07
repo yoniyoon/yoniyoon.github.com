@@ -1,1 +1,7 @@
-<a href="cv_yoon.pdf">Download CV</a>
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+You can download my CV [here]: https://yoniyoon.github.com/assets/cv_yoon.pdf

@@ -29,6 +29,7 @@ plainwhite:
   #disqus_shortname: thelehhman
 header_pages:
  - CV.md
+ - about.md
   # generate social links in footer
   #social_links:
     #twitter: thelehhman
